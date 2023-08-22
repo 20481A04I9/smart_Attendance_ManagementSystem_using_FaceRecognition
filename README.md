@@ -1,0 +1,2 @@
+# smart_Attendance_ManagementSystem_using_FaceRecognition
+ smart-bridge internship project 
